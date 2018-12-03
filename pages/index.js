@@ -11,7 +11,7 @@ class IndexPage extends Component {
       <div>
         <Header />
 
-        <Work>Welcome!</Work>
+        <Work>Welcome! We're just getting setup</Work>
 
         <Footer />
       </div>
