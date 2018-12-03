@@ -10,9 +10,7 @@ class IndexPage extends Component {
     return (
       <div>
         <Header />
-
         <Work>Welcome! We're just getting setup</Work>
-
         <Footer />
       </div>
     );
