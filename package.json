@@ -1,0 +1,30 @@
+{
+  "name": "merrylabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MerryLabs/site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MerryLabs/site/issues"
+  },
+  "homepage": "https://github.com/MerryLabs/site#readme",
+  "dependencies": {
+    "@emotion/core": "^10.0.1",
+    "@emotion/styled": "^10.0.1",
+    "babel-plugin-emotion": "^10.0.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
